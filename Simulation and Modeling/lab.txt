@@ -1,0 +1,3 @@
+lab 1 brownian motion
+lab 2 random number 
+lab 3  Simulate the Random Walk of multiple particles.
