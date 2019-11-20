@@ -1,0 +1,26 @@
+.h{
+	background-color: lightblue;
+}
+button{
+	padding:10px;
+	padding-right: 15px;
+	padding-left: 15px;
+	background-color: #4caf50;
+	border-radius: 10%;
+	border:2px solid #4caf50;
+	color:white;
+	margin-left: 500px
+}
+button:hover{
+	background-color: white;
+	color:black;
+	border:2px solid #4caf50;
+}
+#lorem{
+	background-color:lightblue;
+	position:absolute;
+	top: 10px;
+	right:11px;
+	margin-left:80%;
+	margin-top:3%;
+}

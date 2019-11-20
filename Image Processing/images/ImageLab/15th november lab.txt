@@ -1,0 +1,11 @@
+LAB 1: Opening an image, printing the size and converting it into grayscale
+LAB 2: Negative and Threshold of an image
+LAB 3: Log Transformation
+LAB 4: Power Law Transformation
+LAB 5: Bitwise Operation on Binary image:
+	a. AND
+	b. OR
+	c. XOR
+	d. NOT
+LAB 6: Blending of an Image
+LAB 7: Making Borders for Images (Padding)
