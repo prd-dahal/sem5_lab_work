@@ -1,3 +1,11 @@
-lab 1 brownian motion
-lab 2 random number 
-lab 3  Simulate the Random Walk of multiple particles.
+lab 1: brownian motion
+lab 2: random number 
+lab 3:  Simulate the Random Walk of multiple particles.
+
+Lab 4: Manufacturing shop model -2 [Use of facilitites and storages] (SEIZE, RELEASE) facility, (ENTER, LEAVE) storage
+
+Write GPSS code for the following manufacturing shop, where seize and release blocks have been used to engage a facility 
+[i.e Inspector] and all the parameters are same as in MODEL-1 and show the simulation result of the model. 
+
+
+

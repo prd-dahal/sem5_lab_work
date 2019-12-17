@@ -1,0 +1,4 @@
+GPSS Manufacturing shop model -3  (use of facilities and storages) 
+Write FPSS code for the following manufacturing shop where ENTER and LEAVE blocks have been used to engage facilites and all the 
+parameters are same as in model -1 and show the simulation result of the model-3
+

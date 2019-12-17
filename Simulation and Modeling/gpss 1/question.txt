@@ -1,0 +1,4 @@
+A machine tool in a manufacturing shop is turing out parts at the rate of one every five minutes. 
+As they are finished the parts go to an inspector, who takes 4+-3 minutes to examine each one rejects about 10% 
+of parts. Each parts will be represented by one transaction, and the time unit selected for the problem will be 1 minute.
+Represent the block diagram for the system using GPSS

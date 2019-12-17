@@ -1,0 +1,6 @@
+Write GPSS code for the following manufacturing shop, where seize and release blocks have beeen used 
+to engage  a facility [inspector] and all the parameters are same as in Model-1. And show the simulation result of the 
+model. 
+
+
+
